@@ -1,0 +1,11 @@
+.home-menu{
+    list-style-type: none;
+    overflow: hidden;
+    padding-right: 10rem;
+    padding-top: 3rem;
+}
+
+.header-navigation{
+    margin: 0px;
+    display: inline-block;
+}
